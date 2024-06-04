@@ -268,9 +268,9 @@ body {
 }
 
 .a11y-container {
-  max-width: 640px;
+  max-width: 648px;
   margin: 0 auto;
-  padding: 100px 20px;
+  padding: 100px 24px;
   font-family: "Spoqa Han Sans Neo", "malgun gothic", Arial, sans-serif;
 }
 .a11y-container figure img {
@@ -323,7 +323,7 @@ body {
   width: 18px;
   height: 18px;
   background-color: #4b5563;
-  background-image: url(../../../assets/images//ico-notify@2x.png);
+  background-image: url(./images/ico-notify@2x.png);
   background-size: 18px auto;
   border-radius: 50%;
 }
@@ -331,13 +331,13 @@ body {
   flex: 0 0 auto;
   width: 67px;
   height: 16px;
-  background-image: url(../../../assets/images//logo-a11y-sm@2x.png);
+  background-image: url(./images/logo-a11y-sm@2x.png);
   background-size: 67px auto;
 }
 .a11y-container .ico-link-sm-white {
   width: 12px;
   height: 12px;
-  background-image: url(../../../assets/images//ico-link-sm-white@2x.png);
+  background-image: url(./images/ico-link-sm-white@2x.png);
   background-size: 12px auto;
 }
 .a11y-container .a11y-producer {
@@ -380,7 +380,7 @@ body {
   width: 20px;
   height: 20px;
   margin-right: 8px;
-  background-image: url(../../../assets/images//ico-profile-sm@2x.png);
+  background-image: url(./images/ico-profile-sm@2x.png);
   background-size: 20px auto;
 }
 .a11y-container .a11y-profile-thumb img {
@@ -459,7 +459,7 @@ body {
 }
 @media (max-width: 767.98px) {
   .a11y-container {
-    padding-top: 24px;
+    padding-top: 32px;
   }
   .a11y-container .a11y-title {
     font-size: 28px;
